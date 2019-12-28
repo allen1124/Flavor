@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flavor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="query_hint">Search...</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <string name="details">Details</string>
+    <string name="no_login">Proceed without login</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">Address</string>
+    <string name="open_now">OPEN NOW</string>
+    <string name="closed_now">CLOSED NOW</string>
+    <string name="rating">Rating</string>
+    <string name="comment">Comment</string>
+    <string name="comment_sign_in">Sign in to Comment</string>
+    <string name="comment_post">Post</string>
+    <string name="comment_alert">You did not enter comment</string>
+    <string name="welcome">Search for Your Flavor</string>
+</resources>
